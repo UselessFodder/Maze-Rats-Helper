@@ -1,0 +1,8 @@
+{
+    "1": ["Antlers", "Beak", "Carapace", "Claws", "Compound eyes", "Eye Stalks"],
+    "2": ["Fangs", "Fins", "Fur", "Gills", "Hooves", "Horns"],
+    "3": ["Legless", "Long tongue", "Many-eyed", "Many-limbed", "Mucus", "Pincers"],
+    "4": ["Plates", "Plumage", "Proboscis", "Scales", "Segments", "Shaggy hair"],
+    "5": ["Shell", "Spikes", "Spinnerets", "Spines", "Stinger", "Suction cups"],
+    "6": ["Tail", "Talons", "Tentacles", "Trunk", "Tusks", "Wings"]
+}
