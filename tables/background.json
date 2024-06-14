@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Alchemist",
+        "Beggar-prince",
+        "Blackmailer",
+        "Bounty-hunter",
+        "Chimney sweep",
+        "Coin-clipper"
+    ],
+    "2": [
+        "Contortionist",
+        "Counterfeiter",
+        "Cultist",
+        "Cutpurse",
+        "Debt-collector",
+        "Deserter"
+    ],
+    "3": [
+        "Fence",
+        "Fortuneteller",
+        "Galley slave",
+        "Gambler",
+        "Gravedigger",
+        "Headsman"
+    ],
+    "4": [
+        "Hedge knight",
+        "Highwayman",
+        "Housebreaker",
+        "Kidnapper",
+        "Mad prophet",
+        "Mountebank"
+    ],
+    "5": [
+        "Peddler",
+        "Pit-fighter",
+        "Poisoner",
+        "Rat-catcher",
+        "Scrivener",
+        "Sellsword"
+    ],
+    "6": [
+        "Slave",
+        "Smuggler",
+        "Street performer",
+        "Tattooist",
+        "Urchin",
+        "Usurer"
+    ]
+}

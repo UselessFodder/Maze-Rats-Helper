@@ -27,11 +27,17 @@ def load_tables(directory):
     for filename in os.listdir(directory):
         if filename.endswith('.json'):
             with open(os.path.join(directory, filename), 'r') as file:
-            #with open("tables/monster_features.json", 'r') as file:
                 table_name = os.path.splitext(filename)[0]
-                tables[table_name] = json.load(file)
-                #tables[table_name] = json.load('tables\monster_features.json')
+                new_table = json.load(file)
+                #tables[table_name] = json.load(file)
+                tables[table_name] = new_table
+                category = new_table.get("Category")
+                if category not in table_types:
+                    table_types.append(category)
     return tables
+
+# all types of tables used to generate buttons
+table_types = []
 
 # load all tables within the tables directory
 tables = load_tables('tables')
@@ -58,8 +64,14 @@ buttons = tk.Frame(root, padx=10)
 generate_button = tk.Button(buttons, text="Generate Monster Feature", command=generate_feature)
 generate_button.pack(pady=20)
 
+# create buttons for all categories
+for x in table_types:
+    new_button = tk.Button(buttons, text=x)
+    new_button.pack(pady=10)
+
 # Label to display the result
 result_label = tk.Label(root, text="", font=("Helvetica", 16))
+result_label.config(text=f"Table Types: {table_types}")
 result_label.pack(pady=20)
 
 # Start the application

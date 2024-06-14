@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Avenging",
+        "Banishing",
+        "Bewildering",
+        "Blinding",
+        "Charming",
+        "Communicating"
+    ],
+    "2": [
+        "Compelling",
+        "Concealing",
+        "Deafening",
+        "Deceiving",
+        "Deciphering",
+        "Disguising"
+    ],
+    "3": [
+        "Dispelling",
+        "Emboldening",
+        "Encoding",
+        "Energizing",
+        "Enlightening",
+        "Enraging"
+    ],
+    "4": [
+        "Excruciating",
+        "Foreseeing",
+        "Intoxicating",
+        "Maddening",
+        "Mesmerizing",
+        "Mindreading"
+    ],
+    "5": [
+        "Nullifying",
+        "Paralyzing",
+        "Revealing",
+        "Revolting",
+        "Scrying",
+        "Silencing"
+    ],
+    "6": [
+        "Soothing",
+        "Summoning",
+        "Terrifying",
+        "Warding",
+        "Wearying",
+        "Withering"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Antique",
+        "Battle-torn",
+        "Bedraggled",
+        "Blood-stained",
+        "Ceremonial",
+        "Dated"
+    ],
+    "2": [
+        "Decaying",
+        "Eccentric",
+        "Elegant",
+        "Embroidered",
+        "Exotic",
+        "Fashionable"
+    ],
+    "3": [
+        "Flamboyant",
+        "Food-stained",
+        "Formal",
+        "Frayed",
+        "Frumpy",
+        "Garish"
+    ],
+    "4": [
+        "Grimy",
+        "Haute couture",
+        "Lacey",
+        "Livery",
+        "Mud-stained",
+        "Ostentatious"
+    ],
+    "5": [
+        "Oversized",
+        "Patched",
+        "Patterned",
+        "Perfumed",
+        "Practical",
+        "Rumpled"
+    ],
+    "6": [
+        "Sigils",
+        "Singed",
+        "Tasteless",
+        "Undersized",
+        "Wine-stained",
+        "Worn out"
+    ]
+}

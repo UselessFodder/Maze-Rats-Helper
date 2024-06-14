@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Ash",
+        "Chaos",
+        "Distortion",
+        "Dream",
+        "Dust",
+        "Echo"
+    ],
+    "2": [
+        "Ectoplasm",
+        "Fire",
+        "Fog",
+        "Ghost",
+        "Harmony",
+        "Heat"
+    ],
+    "3": [
+        "Light",
+        "Lightning",
+        "Memory",
+        "Mind",
+        "Mutation",
+        "Negation"
+    ],
+    "4": [
+        "Plague",
+        "Plasma",
+        "Probability",
+        "Rain",
+        "Rot",
+        "Shadow"
+    ],
+    "5": [
+        "Smoke",
+        "Snow",
+        "Soul",
+        "Star",
+        "Stasis",
+        "Steam"
+    ],
+    "6": [
+        "Thunder",
+        "Time",
+        "Void",
+        "Warp",
+        "Whisper",
+        "Wind"
+    ]
+}

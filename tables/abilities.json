@@ -1,0 +1,33 @@
+{
+    "Category": "Character",
+    "1": [
+        "+2 Strength",
+        "+1 Dexterity",
+        "+0 Will"
+    ],
+    "2": [
+        "+2 Strength",
+        "+0 Dexterity",
+        "+1 Will"
+    ],
+    "3": [
+        "+1 Strength",
+        "+2 Dexterity",
+        "+0 Will"
+    ],
+    "4": [
+        "+0 Strength",
+        "+2 Dexterity",
+        "+1 Will"
+    ],
+    "5": [
+        "+1 Strength",
+        "+0 Dexterity",
+        "+2 Will"
+    ],
+    "6": [
+        "+0 Strength",
+        "+1 Dexterity",
+        "+2 Will"
+    ]
+}

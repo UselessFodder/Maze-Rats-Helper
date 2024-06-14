@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Altar",
+        "Armor",
+        "Arrow",
+        "Beast",
+        "Blade",
+        "Cauldron"
+    ],
+    "2": [
+        "Chain",
+        "Chariot",
+        "Claw",
+        "Cloak",
+        "Colossus",
+        "Crown"
+    ],
+    "3": [
+        "Elemental",
+        "Eye",
+        "Fountain",
+        "Gate",
+        "Golem",
+        "Hammer"
+    ],
+    "4": [
+        "Horn",
+        "Key",
+        "Mask",
+        "Monolith",
+        "Pit",
+        "Prison"
+    ],
+    "5": [
+        "Sentinel",
+        "Servant",
+        "Shield",
+        "Spear",
+        "Steed",
+        "Swarm"
+    ],
+    "6": [
+        "Tentacle",
+        "Throne",
+        "Torch",
+        "Trap",
+        "Wall",
+        "Web"
+    ]
+}

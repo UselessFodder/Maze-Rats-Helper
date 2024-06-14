@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Anecdotes",
+        "Breathy",
+        "Chuckles",
+        "Clipped",
+        "Cryptic",
+        "Deep voice"
+    ],
+    "2": [
+        "Drawl",
+        "Enunciates",
+        "Flowery speech",
+        "Gravelly voice",
+        "Highly formal",
+        "Hypnotic"
+    ],
+    "3": [
+        "Interrupts",
+        "Laconic",
+        "Laughs",
+        "Long pauses",
+        "Melodious",
+        "Monotone"
+    ],
+    "4": [
+        "Mumbles",
+        "Narrates",
+        "Overly casual",
+        "Quaint sayings",
+        "Rambles",
+        "Random facts"
+    ],
+    "5": [
+        "Rapid-fire",
+        "Rhyming",
+        "Robotic",
+        "Slow speech",
+        "Speechifies",
+        "Squeaky"
+    ],
+    "6": [
+        "Street slang",
+        "Stutters",
+        "Talks to self",
+        "Trails off",
+        "Very loud",
+        "Whispers"
+    ]
+}

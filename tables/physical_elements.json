@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Acid",
+        "Amber",
+        "Bark",
+        "Blood",
+        "Bone",
+        "Brine"
+    ],
+    "2": [
+        "Clay",
+        "Crow",
+        "Crystal",
+        "Ember",
+        "Flesh",
+        "Fungus"
+    ],
+    "3": [
+        "Glass",
+        "Honey",
+        "Ice",
+        "Insect",
+        "Lava",
+        "Metal"
+    ],
+    "4": [
+        "Moss",
+        "Obsidian",
+        "Oil",
+        "Poison",
+        "Rat",
+        "Salt"
+    ],
+    "5": [
+        "Sand",
+        "Sap",
+        "Serpent",
+        "Slime",
+        "Stone",
+        "Tar"
+    ],
+    "6": [
+        "Thorn",
+        "Vine",
+        "Water",
+        "Wine",
+        "Wood",
+        "Worm"
+    ]
+}

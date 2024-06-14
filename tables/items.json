@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Animal Scent",
+        "Bear Trap",
+        "Bedroll",
+        "Caltrops",
+        "Chain (10 ft.)",
+        "Chalk"
+    ],
+    "2": [
+        "Chisel",
+        "Crowbar",
+        "Fishing Net",
+        "Glass Marbles",
+        "Glue",
+        "Grappling Hook"
+    ],
+    "3": [
+        "Grease",
+        "Hacksaw",
+        "Hammer",
+        "Hand drill",
+        "Horn",
+        "Iron spikes"
+    ],
+    "4": [
+        "Iron tongs",
+        "Lantern and Oil",
+        "Large Sack",
+        "Lockpicks (3)",
+        "Manacles",
+        "Medicine (3)"
+    ],
+    "5": [
+        "Metal file",
+        "Rations (3)",
+        "Rope (50 ft.)",
+        "Steel wire",
+        "Shovel",
+        "Steel mirror"
+    ],
+    "6": [
+        "Ten Foot Pole",
+        "Tinderbox",
+        "Torch",
+        "Vial of Acid",
+        "Vial of Poison",
+        "Waterskin"
+    ]
+}

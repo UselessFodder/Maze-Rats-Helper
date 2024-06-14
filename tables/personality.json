@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Bitter",
+        "Brave",
+        "Cautious",
+        "Chipper",
+        "Contrary",
+        "Cowardly"
+    ],
+    "2": [
+        "Cunning",
+        "Driven",
+        "Entitled",
+        "Gregarious",
+        "Grumpy",
+        "Heartless"
+    ],
+    "3": [
+        "Honor-bound",
+        "Hotheaded",
+        "Inquisitive",
+        "Irascible",
+        "Jolly",
+        "Know-it-all"
+    ],
+    "4": [
+        "Lazy",
+        "Loyal",
+        "Menacing",
+        "Mopey",
+        "Nervous",
+        "Protective"
+    ],
+    "5": [
+        "Righteous",
+        "Rude",
+        "Sarcastic",
+        "Savage",
+        "Scheming",
+        "Serene"
+    ],
+    "6": [
+        "Spacey",
+        "Stoic",
+        "Stubborn",
+        "Stuck-up",
+        "Suspicious",
+        "Wisecracking"
+    ]
+}

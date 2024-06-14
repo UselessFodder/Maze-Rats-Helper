@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Animating",
+        "Attracting",
+        "Binding",
+        "Blossoming",
+        "Consuming",
+        "Creeping"
+    ],
+    "2": [
+        "Crushing",
+        "Diminishing",
+        "Dividing",
+        "Duplicating",
+        "Enveloping",
+        "Expanding"
+    ],
+    "3": [
+        "Fusing",
+        "Grasping",
+        "Hastening",
+        "Hindering",
+        "Illuminating",
+        "Imprisoning"
+    ],
+    "4": [
+        "Levitating",
+        "Opening",
+        "Petrifying",
+        "Phasing",
+        "Piercing",
+        "Pursuing"
+    ],
+    "5": [
+        "Reflecting",
+        "Regenerating",
+        "Rending",
+        "Repelling",
+        "Resurrecting",
+        "Screaming"
+    ],
+    "6": [
+        "Sealing",
+        "Shapeshifting",
+        "Shielding",
+        "Spawning",
+        "Transmuting",
+        "Transporting"
+    ]
+}

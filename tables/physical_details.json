@@ -1,0 +1,51 @@
+{
+    "Category": "Character",
+    "1": [
+        "Acid scars",
+        "Battle scars",
+        "Birthmark",
+        "Braided hair",
+        "Brand mark",
+        "Broken nose"
+    ],
+    "2": [
+        "Bronze skinned",
+        "Burn scars",
+        "Bushy eyebrows",
+        "Curly hair",
+        "Dark skinned",
+        "Dreadlocks"
+    ],
+    "3": [
+        "Exotic accent",
+        "Flogging scars",
+        "Freckles",
+        "Gold tooth",
+        "Hoarse voice",
+        "Huge beard"
+    ],
+    "4": [
+        "Long hair",
+        "Matted hair",
+        "Missing ear",
+        "Missing teeth",
+        "Mustache",
+        "Muttonchops"
+    ],
+    "5": [
+        "Nine fingers",
+        "Oiled hair",
+        "One-eyed",
+        "Pale skinned",
+        "Piercings",
+        "Ritual scars"
+    ],
+    "6": [
+        "Sallow skin",
+        "Shaved head",
+        "Sunburned",
+        "Tangled hair",
+        "Tattoos",
+        "Topknot"
+    ]
+}

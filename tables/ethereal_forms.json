@@ -1,0 +1,51 @@
+{
+    "Category": "Magic",
+    "1": [
+        "Aura",
+        "Beacon",
+        "Beam",
+        "Blast",
+        "Blob",
+        "Bolt"
+    ],
+    "2": [
+        "Bubble",
+        "Call",
+        "Cascade",
+        "Circle",
+        "Cloud",
+        "Coil"
+    ],
+    "3": [
+        "Cone",
+        "Cube",
+        "Dance",
+        "Disk",
+        "Field",
+        "Form"
+    ],
+    "4": [
+        "Gaze",
+        "Loop",
+        "Moment",
+        "Nexus",
+        "Portal",
+        "Pulse"
+    ],
+    "5": [
+        "Pyramid",
+        "Ray",
+        "Shard",
+        "Sphere",
+        "Spray",
+        "Storm"
+    ],
+    "6": [
+        "Swarm",
+        "Torrent",
+        "Touch",
+        "Vortex",
+        "Wave",
+        "Word"
+    ]
+}
