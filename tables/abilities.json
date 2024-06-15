@@ -1,33 +1,52 @@
 {
+	"Name": "Abilities",
     "Category": "Character",
     "1": [
-        "+2 Strength",
-        "+1 Dexterity",
-        "+0 Will"
+        "+2 STR, +1 DEX, +0 WIL",
+        "+2 STR, +1 DEX, +0 WIL",
+        "+2 STR, +1 DEX, +0 WIL",
+        "+2 STR, +1 DEX, +0 WIL",
+        "+2 STR, +1 DEX, +0 WIL",
+        "+2 STR, +1 DEX, +0 WIL"
     ],
     "2": [
-        "+2 Strength",
-        "+0 Dexterity",
-        "+1 Will"
+        "+2 STR, +0 DEX, +1 WIL",
+        "+2 STR, +0 DEX, +1 WIL",
+        "+2 STR, +0 DEX, +1 WIL",
+        "+2 STR, +0 DEX, +1 WIL",
+        "+2 STR, +0 DEX, +1 WIL",
+        "+2 STR, +0 DEX, +1 WIL"
     ],
     "3": [
-        "+1 Strength",
-        "+2 Dexterity",
-        "+0 Will"
+        "+1 STR, +2 DEX, +0 WIL",
+        "+1 STR, +2 DEX, +0 WIL",
+        "+1 STR, +2 DEX, +0 WIL",
+        "+1 STR, +2 DEX, +0 WIL",
+        "+1 STR, +2 DEX, +0 WIL",
+        "+1 STR, +2 DEX, +0 WIL"
     ],
     "4": [
-        "+0 Strength",
-        "+2 Dexterity",
-        "+1 Will"
+        "+0 STR, +2 DEX, +1 WIL",
+        "+0 STR, +2 DEX, +1 WIL",
+        "+0 STR, +2 DEX, +1 WIL",
+        "+0 STR, +2 DEX, +1 WIL",
+        "+0 STR, +2 DEX, +1 WIL",
+        "+0 STR, +2 DEX, +1 WIL"
     ],
     "5": [
-        "+1 Strength",
-        "+0 Dexterity",
-        "+2 Will"
+        "+1 STR, +0 DEX, +2 WIL",
+        "+1 STR, +0 DEX, +2 WIL",
+        "+1 STR, +0 DEX, +2 WIL",
+        "+1 STR, +0 DEX, +2 WIL",
+        "+1 STR, +0 DEX, +2 WIL",
+        "+1 STR, +0 DEX, +2 WIL"
     ],
     "6": [
-        "+0 Strength",
-        "+1 Dexterity",
-        "+2 Will"
+        "+0 STR, +1 DEX, +2 WIL",
+        "+0 STR, +1 DEX, +2 WIL",
+        "+0 STR, +1 DEX, +2 WIL",
+        "+0 STR, +1 DEX, +2 WIL",
+        "+0 STR, +1 DEX, +2 WIL",
+        "+0 STR, +1 DEX, +2 WIL"
     ]
 }
