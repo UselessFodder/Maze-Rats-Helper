@@ -1,0 +1,13 @@
+{
+    "Name": "Male NPC",
+	"Category": "Character",
+    "Tables": [
+		"Male Names",
+		"Class",
+		"Assets",
+		"Liabilities",
+		"NPC Goals",
+		"Misfortunes",
+		"Missions"
+	]
+}

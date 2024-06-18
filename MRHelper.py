@@ -62,23 +62,48 @@ def sub_menu(category):
     sub_buttons = tk.Frame(window, padx=10)
     sub_buttons.grid(row=0, column=1)
     
-    #create buttons for all tables in category
+    #holds number of buttons to assign grid col/row
+    button_row = 0
+    button_col = 0
+    
+    #create buttons for all tables in category    
     for x in tables:
         current_table = tables.get(x)
         if current_table.get("Category") == category:
-            new_button = tk.Button(sub_buttons, text=tables.get(x).get("Name"), command=partial(generate,x,sub_label))
-            new_button.pack(pady=5)
+            new_button = tk.Button(sub_buttons, text=tables.get(x).get("Name"), width = 18, command=partial(start_generation,x,False,sub_label, False))
+            #new_button.pack(pady=5)
             
+            new_button.grid(row=button_row, column=button_col,pady=5,padx=5)
+            if button_col == 3:
+                button_col = 0
+                button_row += 1
+            else:
+                button_col += 1           
+    
+    do_reset = True    
     #create buttons for complex actions
     for x in complex_tables:
         current_table = complex_tables.get(x)
         if complex_tables.get(x).get("Category") == category:
-            new_button = tk.Button(sub_buttons, text=complex_tables.get(x).get("Name"), font='Helvetica 10 bold', command=partial(generate_complex,current_table.get("Tables"),sub_label))
-            new_button.pack(pady=5)
+            if do_reset == True:
+                do_reset = False
+                button_row += 1
+                button_col = 0
+            
+            new_button = tk.Button(sub_buttons, text=complex_tables.get(x).get("Name"), font='Helvetica 10 bold', width = 16, command=partial(start_generation,current_table.get("Tables"),True,sub_label, True))
+            #new_button.pack(pady=5)
+            
+            new_button.grid(row=button_row, column=button_col,pady=5,padx=5)
+            if button_col == 3:
+                button_col = 0
+                button_row += 1
+            else:
+                button_col += 1  
     
     #add clear button to erase label
     clear_button = tk.Button(sub_buttons, text='Clear', font='Helvetica 12 bold', command=partial(clear_label,sub_label))
-    clear_button.pack(pady=10)
+    #clear_button.pack(pady=10)
+    clear_button.grid(row=button_row, column=button_col,pady=5,padx=5)
     
     window.mainloop()
 
@@ -88,21 +113,34 @@ def clear_label(label):
 def roll_dice():
     return random.randint(1, 6), random.randint(1, 6)
 
-def generate(table_name, panel_name):
+def update_panel(panel_name, new_text, do_clear):
+    if do_clear == True:
+        clear_label(panel_name)
+        
+    panel_name.config(text=panel_name["text"] + new_text)
+
+def start_generation(table_name, is_complex, panel_name, do_clear):
+    if is_complex == True:
+        result = generate_complex(table_name)
+    else:
+        result = generate(table_name)        
+    
+    update_panel(panel_name, result, do_clear)
+
+def generate(table_name):
     #***debug
     #table_name = 'monster_features'
     
     result = roll_table(table_name)
     
-    panel_name.config(text=panel_name["text"] + result)
+    return result
 
-def generate_complex(table_list, panel_name):
-    clear_label(panel_name)
+def generate_complex(table_list):
     result = ""
     for x in table_list:
         result = result + roll_table(name_lookup(x))
     
-    panel_name.config(text=panel_name["text"] + result)
+    return result
 
 def roll_table(table_name):
     group, item = roll_dice()
@@ -113,11 +151,23 @@ def roll_table(table_name):
         next_table = name_lookup(result[1:])
         if debug_mode == True:
             result = f"{tables[table_name].get('Name')[:-1]}: {result[1:]} ({group}, {item})\n" + roll_table(next_table)
+        elif simple_mode == True:
+            result = f"{roll_table(next_table)}"
         else:
             result = f"{tables[table_name].get('Name')[:-1]}: {result[1:]}\n" + roll_table(next_table)
+    elif str(result)[0] == "@":
+        next_table = name_lookup(result[1:])
+        if debug_mode == True:
+            result = f"{tables[table_name].get('Name')[:-1]}: {result[1:]} ({group}, {item})\n" + generate_complex(next_table)
+        elif simple_mode == True:
+            result = f"{generate_complex(next_table)}"
+        else:
+            result = f"{tables[table_name].get('Name')[:-1]}: {result[1:]}\n" + generate_complex(next_table)
     else:
         if debug_mode == True:
             result = f"{tables[table_name].get('Name')[:-1]}: {result} ({group}, {item})\n"
+        elif simple_mode == True:
+            result = f"{result}\n"
         else:
             result = f"{tables[table_name].get('Name')[:-1]}: {result}\n"
         
@@ -127,6 +177,9 @@ def roll_table(table_name):
 
 #debug mode that shows more information
 debug_mode = False
+
+#simple mode shows the bare bones information
+simple_mode = False
 
 # all types of tables used to generate buttons
 table_types = []

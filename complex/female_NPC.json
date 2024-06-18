@@ -1,0 +1,13 @@
+{
+    "Name": "Female NPC",
+	"Category": "Character",
+    "Tables": [
+		"Female Names",
+		"Class",
+		"Assets",
+		"Liabilities",
+		"NPC Goals",
+		"Misfortunes",
+		"Missions"
+	]
+}

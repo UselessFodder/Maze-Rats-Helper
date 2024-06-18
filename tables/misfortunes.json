@@ -1,0 +1,52 @@
+{
+    "Name": "Misfortunes",
+    "Category": "Character",
+    "1": [
+        "Abandoned",
+        "Addicted",
+        "Arrested",
+        "Blackmailed",
+        "Burgled",
+        "Challenged"
+    ],
+    "2": [
+        "Condemned",
+        "Crippled",
+        "Cursed",
+        "Defrauded",
+        "Demoted",
+        "Depressed"
+    ],
+    "3": [
+        "Discredited",
+        "Dismissed",
+        "Disowned",
+        "Exiled",
+        "Famished",
+        "Forgotten"
+    ],
+    "4": [
+        "Framed",
+        "Haunted",
+        "Humiliated",
+        "Impoverished",
+        "Kidnapped",
+        "Lost"
+    ],
+    "5": [
+        "Mobbed",
+        "Mutilated",
+        "Overworked",
+        "Poisoned",
+        "Pursued",
+        "Rejected"
+    ],
+    "6": [
+        "Replaced",
+        "Robbed",
+        "Sick",
+        "Sued",
+        "Suspected",
+        "Transformed"
+    ]
+}

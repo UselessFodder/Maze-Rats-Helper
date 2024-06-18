@@ -1,0 +1,52 @@
+{
+    "Name": "NPC Goals",
+    "Category": "Character",
+    "1": [
+        "A better life",
+        "Acceptance",
+        "Acquire item",
+        "Craft item",
+        "Destroy faction",
+        "Destroy item"
+    ],
+    "2": [
+        "Enlightenment",
+        "Fame",
+        "Found faction",
+        "Freedom",
+        "Glory",
+        "Impress NPC"
+    ],
+    "3": [
+        "Infamy",
+        "Infiltrate faction",
+        "Justice",
+        "Kidnap NPC",
+        "Lead faction",
+        "Learning"
+    ],
+    "4": [
+        "Locate NPC",
+        "Love",
+        "Mastery",
+        "Power",
+        "Reach location",
+        "Rescue NPC"
+    ],
+    "5": [
+        "Resolve dispute",
+        "Restore faction",
+        "Reveal a secret",
+        "Revenge",
+        "Sabotage faction",
+        "Serve a deity"
+    ],
+    "6": [
+        "Serve evil",
+        "Serve faction",
+        "Serve ideology",
+        "Serve leader",
+        "Serve the needy",
+        "Wealth"
+    ]
+}

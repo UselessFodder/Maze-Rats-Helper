@@ -1,0 +1,52 @@
+{
+    "Name": "Liabilities",
+    "Category": "Character",
+    "1": [
+        "Addiction",
+        "Alcoholic",
+        "Corrupt ally",
+        "Coward",
+        "Decadent",
+        "Forbidden love"
+    ],
+    "2": [
+        "Gambler",
+        "Glutton",
+        "Greedy",
+        "Heretic",
+        "Huge debts",
+        "Imposter"
+    ],
+    "3": [
+        "Insanity",
+        "Jealous",
+        "Leaves evidence",
+        "Many enemies",
+        "Misinformed",
+        "Money trail"
+    ],
+    "4": [
+        "Narcissist",
+        "Needs medicine",
+        "OCD",
+        "Paranoid",
+        "Partyer",
+        "Poor equipment"
+    ],
+    "5": [
+        "Protective",
+        "Scandalous",
+        "Softhearted",
+        "Strict routines",
+        "Superstitious",
+        "Suspicious"
+    ],
+    "6": [
+        "Temper",
+        "Trusting",
+        "Vulnerable base",
+        "Wanted",
+        "Weak-willed",
+        "Widely despised"
+    ]
+}

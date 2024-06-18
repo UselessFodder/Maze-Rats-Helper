@@ -1,0 +1,13 @@
+{
+    "Name": "Random NPC",
+	"Category": "Character",
+    "Tables": [
+		"Gender",
+		"Class",
+		"Assets",
+		"Liabilities",
+		"NPC Goals",
+		"Misfortunes",
+		"Missions"
+	]
+}

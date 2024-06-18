@@ -1,0 +1,52 @@
+{
+    "Name": "Civilized NPCs",
+    "Category": "Character",
+    "1": [
+        "Acolyte",
+        "Actor",
+        "Apothecary",
+        "Baker",
+        "Barber",
+        "Blacksmith"
+    ],
+    "2": [
+        "Brewer",
+        "Bureaucrat",
+        "Butcher",
+        "Carpenter",
+        "Clockmaker",
+        "Courier"
+    ],
+    "3": [
+        "Courtier",
+        "Diplomat",
+        "Fishmonger",
+        "Guard",
+        "Haberdasher",
+        "Innkeeper"
+    ],
+    "4": [
+        "Item-seller",
+        "Jeweler",
+        "Knight",
+        "Locksmith",
+        "Mason",
+        "Miller"
+    ],
+    "5": [
+        "Musician",
+        "Noble",
+        "Painter",
+        "Priest",
+        "Scholar",
+        "Scribe"
+    ],
+    "6": [
+        "Sculptor",
+        "Shipwright",
+        "Soldier",
+        "Tailor",
+        "Taxidermist",
+        "Wigmaker"
+    ]
+}

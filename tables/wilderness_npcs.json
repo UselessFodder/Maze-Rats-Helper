@@ -1,0 +1,49 @@
+{
+    "Name": "Wilderness NPCs",
+    "Category": "Character",
+    "1": [
+        "Apiarist",
+        "Bandit",
+        "Caravan Guard",
+        "Caravaneer",
+        "Druid",
+        "Exile"
+    ],
+    "2": [
+        "Explorer",
+        "Farmer",
+        "Fisherman",
+        "Forager",
+        "Fugitive",
+        "Hedge wizard"
+    ],
+    "3": [
+        "Hermit",
+        "Hunter",
+        "Messenger",
+        "Minstrel",
+        "Monk",
+        "Monster hunter"
+    ],
+    "4": [
+        "Outlander",
+        "Pilgrim",
+        "Poacher",
+        "Raider",
+        "Ranger",
+        "Sage"
+    ],
+    "5": [
+        "Scavenger",
+        "Scout",
+        "Shepherd",
+        "Surveyor",
+        "Tinker",
+        "Tomb raider"
+    ],
+    "6": [
+        "Trapper",
+        "Witch",
+        "Woodcutter"
+    ]
+}

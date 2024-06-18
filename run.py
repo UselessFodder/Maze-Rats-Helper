@@ -4,47 +4,27 @@ import os
 # Ensure the 'tables' directory exists
 os.makedirs('tables', exist_ok=True)
 
-# Table data for Tool Items, Treasure Items, Treasure Traits, and Valuable Materials
+# Table data for Assets and NPC Goals
 tables = {
-    "tool_items": {
-        "Name": "Tool Items",
-        "Category": "Item",
-        "1": ["Acid flask", "Bear trap", "Bellows", "Bolt-cutters", "Chain", "Chisel"],
-        "2": ["Crowbar", "Door ram", "Ear trumpet", "Fire oil", "Fishing hook", "Goggles"],
-        "3": ["Grappling hook", "Grease", "Hacksaw", "Hammer", "Hand drill", "Lantern"],
-        "4": ["Lens", "Lock/key", "Lockpicks", "Manacles", "Metal file", "Mortar/pestle"],
-        "5": ["Needle", "Pickaxe", "Pitchfork", "Pliers", "Pole", "Pulleys"],
-        "6": ["Rope", "Scissors", "Shovel", "Spikes", "Steel wire", "Tongs"]
+    "assets": {
+        "Name": "Assets",
+        "Category": "Character",
+        "1": ["Authority", "Avoids detection", "Calls in favors", "Charming", "Cooks the books", "Erases evidence"],
+        "2": ["Excellent liar", "Extremely rich", "Faction-leader", "Faction-member", "Feared", "Fortified base"],
+        "3": ["Gorgeous", "Hears rumors", "Huge family", "Huge library", "Impersonator", "Interrogator"],
+        "4": ["Knows a guy", "Knows a way in", "Launders money", "Learned", "Local celebrity", "Local knowledge"],
+        "5": ["Loyal henchmen", "Middling oracle", "Nothing to lose", "Owns the guards", "Powerful spouse", "Procures gear"],
+        "6": ["Pulls the strings", "Secret lab", "Sells contraband", "Smuggles goods", "Spy network", "War hero"]
     },
-    "treasure_items": {
-        "Name": "Treasure Items",
-        "Category": "Item",
-        "1": ["Alchemy recipe", "Amulet", "Astrolabe", "Blueprints", "Calligraphy", "Carpet"],
-        "2": ["Compass", "Contract", "Crown", "Crystal", "Deed", "Embroidery"],
-        "3": ["Fine china", "Fine liquor", "Instrument", "Magical book", "Microscope", "Music box"],
-        "4": ["Orrery", "Painting", "Perfume", "Prayer book", "Printing block", "Rare textile"],
-        "5": ["Royal robes", "Saint's relic", "Scrimshaw", "Sextant", "Sheet music", "Signet ring"],
-        "6": ["Silverware", "Spices", "Spyglass", "Tapestry", "Telescope", "Treasure map"]
-    },
-    "treasure_traits": {
-        "Name": "Treasure Traits",
-        "Category": "Item",
-        "1": ["Altered", "Ancient", "Blessed", "Bulky", "Compact", "Consumable"],
-        "2": ["Cultural value", "Cursed", "Damaged", "Disguised", "Draws enemies", "Effect"],
-        "3": ["Element", "Embellished", "Encoded", "Exotic", "Extra-planar", "Famous"],
-        "4": ["Forbidden", "Fragile", "Heavy", "Immovable", "Impractical", "Indestructible"],
-        "5": ["Intelligent", "Masterwork", "Military value", "Non-human", "Owned", "Partial"],
-        "6": ["Political value", "Religious value", "Repaired", "Royal", "Toxic", "Vile"]
-    },
-    "valuable_materials": {
-        "Name": "Valuable Materials",
-        "Category": "Item",
-        "1": ["Alabaster", "Amber", "Aquamarine", "Azurite", "Beryl", "Black Pearl"],
-        "2": ["Bloodstone", "Bone China", "Chalcedony", "Cinnabar", "Coral", "Diamond"],
-        "3": ["Ebony", "Emerald", "Fire Agate", "Garnet", "Gold", "Ivory"],
-        "4": ["Jade", "Jasper", "Jet", "Lapis Lazuli", "Malachite", "Moonstone"],
-        "5": ["Onyx", "Opal", "Pearl", "Platinum", "Porcelain", "Ruby"],
-        "6": ["Sapphire", "Serpentine", "Silver", "Star Iron", "Topaz", "Turquoise"]
+    "npc_goals": {
+        "Name": "NPC Goals",
+        "Category": "Character",
+        "1": ["A better life", "Acceptance", "Acquire item", "Craft item", "Destroy faction", "Destroy item"],
+        "2": ["Enlightenment", "Fame", "Found faction", "Freedom", "Glory", "Impress NPC"],
+        "3": ["Infamy", "Infiltrate faction", "Justice", "Kidnap NPC", "Lead faction", "Learning"],
+        "4": ["Locate NPC", "Love", "Mastery", "Power", "Reach location", "Rescue NPC"],
+        "5": ["Resolve dispute", "Restore faction", "Reveal a secret", "Revenge", "Sabotage faction", "Serve a deity"],
+        "6": ["Serve evil", "Serve faction", "Serve ideology", "Serve leader", "Serve the needy", "Wealth"]
     }
 }
 

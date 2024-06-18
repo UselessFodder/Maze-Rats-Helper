@@ -1,0 +1,52 @@
+{
+    "Name": "Missions",
+    "Category": "Character",
+    "1": [
+        "Apprehend",
+        "Assassinate",
+        "Blackmail",
+        "Burgle",
+        "Chart",
+        "Convince"
+    ],
+    "2": [
+        "Deface",
+        "Defraud",
+        "Deliver",
+        "Destroy",
+        "Discredit",
+        "Escort"
+    ],
+    "3": [
+        "Exfiltrate",
+        "Extort",
+        "Follow",
+        "Frame",
+        "Impersonate",
+        "Impress"
+    ],
+    "4": [
+        "Infiltrate",
+        "Interrogate",
+        "Investigate",
+        "Kidnap",
+        "Locate",
+        "Plant"
+    ],
+    "5": [
+        "Protect",
+        "Raid",
+        "Replace",
+        "Rob",
+        "Ruin",
+        "Sabotage"
+    ],
+    "6": [
+        "Smuggle",
+        "Surveil",
+        "Take Over",
+        "Terrorize",
+        "Threaten",
+        "Retrieve"
+    ]
+}
