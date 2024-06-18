@@ -1,0 +1,52 @@
+{
+    "Name": "Miscellaneous Items",
+    "Category": "Item",
+    "1": [
+        "Bowl",
+        "Brass bell",
+        "Brooch",
+        "Carved figurine",
+        "Cup",
+        "Deck of cards"
+    ],
+    "2": [
+        "Drawing",
+        "Foreign coin",
+        "Game piece",
+        "Glass eye",
+        "Glass jar",
+        "Hair comb"
+    ],
+    "3": [
+        "Handkerchief",
+        "Hinged box",
+        "Hourglass",
+        "Human tooth",
+        "Hunting horn",
+        "Loaded dice"
+    ],
+    "4": [
+        "Long fork",
+        "Numbered key",
+        "Oil lamp",
+        "Old doll",
+        "Paint pot",
+        "Pencil"
+    ],
+    "5": [
+        "Purse",
+        "Quill pen",
+        "Salve",
+        "Scissors",
+        "Scroll",
+        "Sealed letter"
+    ],
+    "6": [
+        "Sewing needle",
+        "Shaving razor",
+        "Silver button",
+        "Skull",
+        "Tobacco pipe",
+        "Wine bottle"
+    ]
+}

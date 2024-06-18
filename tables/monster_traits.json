@@ -1,0 +1,52 @@
+{
+    "Name": "Monster Traits",
+    "Category": "Monster",
+    "1": [
+        "Amphibious",
+        "Bloated",
+        "Brittle",
+        "Cannibal",
+        "Clay-like",
+        "Colossal"
+    ],
+    "2": [
+        "Crystalline",
+        "Decaying",
+        "Ethereal",
+        "Ever-young",
+        "Eyeless",
+        "Fearless"
+    ],
+    "3": [
+        "Fluffy",
+        "Fungal",
+        "Gelatinous",
+        "Geometric",
+        "Hardened",
+        "Illusory"
+    ],
+    "4": [
+        "Intelligent",
+        "Iridescent",
+        "Luminous",
+        "Many-headed",
+        "Mechanical",
+        "Planar"
+    ],
+    "5": [
+        "Reflective",
+        "Rubbery",
+        "Shadowy",
+        "Sharp",
+        "Skeletal",
+        "Slimy"
+    ],
+    "6": [
+        "Sticky",
+        "Stinking",
+        "Tiny",
+        "Translucent",
+        "*Ethereal Elements",
+        "*Phyical Elements"
+    ]
+}

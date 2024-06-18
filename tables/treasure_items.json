@@ -1,0 +1,52 @@
+{
+    "Name": "Treasure Items",
+    "Category": "Item",
+    "1": [
+        "Alchemy recipe",
+        "Amulet",
+        "Astrolabe",
+        "Blueprints",
+        "Calligraphy",
+        "Carpet"
+    ],
+    "2": [
+        "Compass",
+        "Contract",
+        "Crown",
+        "Crystal",
+        "Deed",
+        "Embroidery"
+    ],
+    "3": [
+        "Fine china",
+        "Fine liquor",
+        "Instrument",
+        "Magical book",
+        "Microscope",
+        "Music box"
+    ],
+    "4": [
+        "Orrery",
+        "Painting",
+        "Perfume",
+        "Prayer book",
+        "Printing block",
+        "Rare textile"
+    ],
+    "5": [
+        "Royal robes",
+        "Saint's relic",
+        "Scrimshaw",
+        "Sextant",
+        "Sheet music",
+        "Signet ring"
+    ],
+    "6": [
+        "Silverware",
+        "Spices",
+        "Spyglass",
+        "Tapestry",
+        "Telescope",
+        "Treasure map"
+    ]
+}

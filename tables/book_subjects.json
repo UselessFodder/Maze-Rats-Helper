@@ -1,0 +1,52 @@
+{
+    "Name": "Book Subjects",
+    "Category": "Item",
+    "1": [
+        "Alchemy",
+        "Art",
+        "Astrology",
+        "Blackmail",
+        "Charts & maps",
+        "Conspiracies"
+    ],
+    "2": [
+        "Cookbook",
+        "Criminals",
+        "Divination",
+        "Etiquette",
+        "Fashion",
+        "Genealogy"
+    ],
+    "3": [
+        "Hagiography",
+        "History",
+        "Journal",
+        "Language",
+        "Laws",
+        "Letters"
+    ],
+    "4": [
+        "Lost empires",
+        "Lost places",
+        "Love poems",
+        "Monsters",
+        "Mythology",
+        "Odd customs"
+    ],
+    "5": [
+        "Oratory",
+        "Propaganda",
+        "Prophecies",
+        "Siegecraft",
+        "Songs",
+        "State secrets"
+    ],
+    "6": [
+        "Sword fighting",
+        "Theology",
+        "Treasures",
+        "War chronicle",
+        "Who's who",
+        "Witch-hunting"
+    ]
+}

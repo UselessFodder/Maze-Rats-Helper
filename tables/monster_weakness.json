@@ -1,0 +1,52 @@
+{
+    "Name": "Monster Weakness",
+    "Category": "Monster",
+    "1": [
+        "Bells",
+        "Birdsong",
+        "Children",
+        "Cold",
+        "Cold Iron",
+        "Competition"
+    ],
+    "2": [
+        "Conversation",
+        "Deformity",
+        "Flowers",
+        "Gifts",
+        "Gold",
+        "Heat"
+    ],
+    "3": [
+        "Holy Icon",
+        "Holy Water",
+        "Home Cooking",
+        "*Insanities",
+        "Mirrors",
+        "Moonlight"
+    ],
+    "4": [
+        "Puzzles",
+        "Riddles",
+        "Rituals",
+        "Silver",
+        "Sunlight",
+        "Tears"
+    ],
+    "5": [
+        "True Name",
+        "*Valuable Materials",
+        "Weak Spot",
+        "*Weapon Items",
+        "Wine",
+        "Wormwood"
+    ],
+    "6": [
+        "Music",
+        "Phylactery",
+        "*Physical Elements",
+        "Vine",
+        "Warm",
+        "*Methods"
+    ]
+}

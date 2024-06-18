@@ -1,0 +1,52 @@
+{
+    "Name": "Tool Items",
+    "Category": "Item",
+    "1": [
+        "Acid flask",
+        "Bear trap",
+        "Bellows",
+        "Bolt-cutters",
+        "Chain",
+        "Chisel"
+    ],
+    "2": [
+        "Crowbar",
+        "Door ram",
+        "Ear trumpet",
+        "Fire oil",
+        "Fishing hook",
+        "Goggles"
+    ],
+    "3": [
+        "Grappling hook",
+        "Grease",
+        "Hacksaw",
+        "Hammer",
+        "Hand drill",
+        "Lantern"
+    ],
+    "4": [
+        "Lens",
+        "Lock/key",
+        "Lockpicks",
+        "Manacles",
+        "Metal file",
+        "Mortar/pestle"
+    ],
+    "5": [
+        "Needle",
+        "Pickaxe",
+        "Pitchfork",
+        "Pliers",
+        "Pole",
+        "Pulleys"
+    ],
+    "6": [
+        "Rope",
+        "Scissors",
+        "Shovel",
+        "Spikes",
+        "Steel wire",
+        "Tongs"
+    ]
+}

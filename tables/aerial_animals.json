@@ -1,0 +1,52 @@
+{
+    "Name": "Aerial Animals",
+    "Category": "Monster",
+    "1": [
+        "Albatross",
+        "Bat",
+        "Beetle",
+        "Bird of Paradise",
+        "Butterfly",
+        "Condor"
+    ],
+    "2": [
+        "Crane",
+        "Crow",
+        "Dragonfly",
+        "Eagle",
+        "Falcon",
+        "Firefly"
+    ],
+    "3": [
+        "Flamingo",
+        "Fly",
+        "Flying Squirrel",
+        "Goose",
+        "Gull",
+        "Hummingbird"
+    ],
+    "4": [
+        "Kingfisher",
+        "Locust",
+        "Magpie",
+        "Mantis",
+        "Mockingbird",
+        "Mosquito"
+    ],
+    "5": [
+        "Moth",
+        "Owl",
+        "Parrot",
+        "Peacock",
+        "Pelican",
+        "Pteranodon"
+    ],
+    "6": [
+        "Rooster",
+        "Sparrow",
+        "Swan",
+        "Vulture",
+        "Wasp",
+        "Woodpecker"
+    ]
+}

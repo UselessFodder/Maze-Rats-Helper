@@ -1,0 +1,13 @@
+{
+    "Name": "New Monster",
+	"Category": "Monster",
+    "Tables": [
+		"Animal Types",
+		"Monster Features",
+		"Monster Traits",
+		"Monster Abilities",
+		"Monster Tactics",
+		"Monster Personality",
+		"Monster Weakness"
+	]
+}

@@ -1,0 +1,52 @@
+{
+    "Name": "Weapon Items",
+    "Category": "Item",
+    "1": [
+        "Arming sword",
+        "Backsword",
+        "Battleaxe",
+        "Blowpipe",
+        "Claymore",
+        "Club"
+    ],
+    "2": [
+        "Crossbow",
+        "Cutlass",
+        "Dagger",
+        "Flail",
+        "Flanged mace",
+        "Glaive"
+    ],
+    "3": [
+        "Halberd",
+        "Hammer",
+        "Hatchet",
+        "Horsebow",
+        "Hunting knife",
+        "Lance"
+    ],
+    "4": [
+        "Longbow",
+        "Longsword",
+        "Mace",
+        "Maul",
+        "Morningstar",
+        "Pike"
+    ],
+    "5": [
+        "Scimitar",
+        "Sickle",
+        "Sling",
+        "Spear",
+        "Stake",
+        "Stiletto"
+    ],
+    "6": [
+        "Throwing axe",
+        "Warhammer",
+        "War pick",
+        "Whip",
+        "Shortbow",
+        "Staff"
+    ]
+}

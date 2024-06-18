@@ -1,0 +1,52 @@
+{
+    "Name": "Treasure Traits",
+    "Category": "Item",
+    "1": [
+        "Altered",
+        "Ancient",
+        "Blessed",
+        "Bulky",
+        "Compact",
+        "Consumable"
+    ],
+    "2": [
+        "Cultural value",
+        "Cursed",
+        "Damaged",
+        "Disguised",
+        "Draws enemies",
+        "*Effects"
+    ],
+    "3": [
+        "*Elements",
+        "Embellished",
+        "Encoded",
+        "Exotic",
+        "Extra-planar",
+        "Famous"
+    ],
+    "4": [
+        "Forbidden",
+        "Fragile",
+        "Heavy",
+        "Immovable",
+        "Impractical",
+        "Indestructible"
+    ],
+    "5": [
+        "Intelligent",
+        "Masterwork",
+        "Military value",
+        "Non-human",
+        "Owned",
+        "Partial"
+    ],
+    "6": [
+        "Political value",
+        "Religious value",
+        "Repaired",
+        "Royal",
+        "Toxic",
+        "Vile"
+    ]
+}

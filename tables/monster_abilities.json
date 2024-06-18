@@ -1,0 +1,52 @@
+{
+    "Name": "Monster Abilities",
+    "Category": "Monster",
+    "1": [
+        "Absorbing",
+        "Acid blood",
+        "Anti-magic",
+        "Blinding",
+        "Breath weapon",
+        "Camouflaging"
+    ],
+    "2": [
+        "Duplicating",
+        "Electric",
+        "Entangling",
+        "Exploding",
+        "Flying",
+        "Gaze weapon"
+    ],
+    "3": [
+        "Hypnotizing",
+        "Impervious",
+        "Invisible",
+        "Life-draining",
+        "Magnetic",
+        "Mimicking"
+    ],
+    "4": [
+        "Mind-Reading",
+        "Paralyzing",
+        "Phasing",
+        "*Physical Effects",
+        "Poisonous",
+        "Radioactive"
+    ],
+    "5": [
+        "Reflective",
+        "Regenerating",
+        "Shapeshifting",
+        "Spell-casting",
+        "Stealthy",
+        "Strangling"
+    ],
+    "6": [
+        "Super-strength",
+        "Telekinetic",
+        "Teleporting",
+        "Vampiric",
+        "Wall-Crawling",
+        "*Ethereal Effects"
+    ]
+}

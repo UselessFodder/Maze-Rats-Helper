@@ -1,0 +1,52 @@
+{
+    "Name": "Worn Items",
+    "Category": "Item",
+    "1": [
+        "Belt",
+        "Blouse",
+        "Boots",
+        "Bracelet",
+        "Breastplate",
+        "Brigandine"
+    ],
+    "2": [
+        "Cincture",
+        "Cloak",
+        "Coat",
+        "Dress",
+        "Earing",
+        "Eyepatch"
+    ],
+    "3": [
+        "Gauntlets",
+        "Glove",
+        "Gown",
+        "Hat",
+        "Helmet",
+        "Hose"
+    ],
+    "4": [
+        "Leather armor",
+        "Locket",
+        "Mail Shirt",
+        "Mask",
+        "Necklace",
+        "Padded armor"
+    ],
+    "5": [
+        "Plate mail",
+        "Ring",
+        "Robe",
+        "Sandals",
+        "Scarf",
+        "Shirt"
+    ],
+    "6": [
+        "Shoes",
+        "Skirt",
+        "Slippers",
+        "Socks",
+        "Trousers",
+        "Veil"
+    ]
+}

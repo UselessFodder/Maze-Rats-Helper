@@ -1,0 +1,52 @@
+{
+    "Name": "Animal Types",
+    "Category": "Monster",
+    "1": [
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals"
+	],
+    "2": [
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals",
+		"*Aerial Animals"
+	],
+    "3": [
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals"
+	],
+    "4": [
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals",
+		"*Terrestrial Animals"
+	],
+    "5": [
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals"
+	],
+    "6": [
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals",
+		"*Aquatic Animals"
+	]
+}

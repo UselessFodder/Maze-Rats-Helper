@@ -1,0 +1,52 @@
+{
+    "Name": "Monster Tactics",
+    "Category": "Monster",
+    "1": [
+        "Ambush",
+        "Call for support",
+        "Capture",
+        "Charge",
+        "Climb foes",
+        "Compel worship"
+    ],
+    "2": [
+        "Create barrier",
+        "Deceive",
+        "Demand duel",
+        "Disorient",
+        "Encircle",
+        "Evade"
+    ],
+    "3": [
+        "Gang up",
+        "Gather strength",
+        "Go berserk",
+        "Harry",
+        "Hurl foes",
+        "Immobilize"
+    ],
+    "4": [
+        "Manipulate",
+        "Mock",
+        "Monologue",
+        "Order minion",
+        "Protect leader",
+        "Protect self"
+    ],
+    "5": [
+        "Scatter foes",
+        "Stalk",
+        "Steal from",
+        "Swarm",
+        "Target insolent",
+        "Target nearest"
+    ],
+    "6": [
+        "Target richest",
+        "Target strongest",
+        "Target weakest",
+        "Toy with",
+        "Use terrain",
+        "Target self"
+    ]
+}

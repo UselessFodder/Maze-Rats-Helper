@@ -1,0 +1,52 @@
+{
+    "Name": "Aquatic Animals",
+    "Category": "Monster",
+    "1": [
+        "Alligator",
+        "Amoeba",
+        "Anglerfish",
+        "Beaver",
+        "Clam",
+        "Crab"
+    ],
+    "2": [
+        "Dolphin",
+        "Eel",
+        "Frog",
+        "Hippopotamus",
+        "Jellyfish",
+        "Leech"
+    ],
+    "3": [
+        "Lobster",
+        "Manatee",
+        "Manta Ray",
+        "Muskrat",
+        "Narwhal",
+        "Newt"
+    ],
+    "4": [
+        "Octopus",
+        "Otter",
+        "Penguin",
+        "Platypus",
+        "Pufferfish",
+        "Salamander"
+    ],
+    "5": [
+        "Sea Anemone",
+        "Sea Urchin",
+        "Seahorse",
+        "Seal",
+        "Shark",
+        "Shrimp"
+    ],
+    "6": [
+        "Squid",
+        "Swordfish",
+        "Tadpole",
+        "Turtle",
+        "Walrus",
+        "Whale"
+    ]
+}

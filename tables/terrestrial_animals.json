@@ -1,0 +1,52 @@
+{
+    "Name": "Terrestrial Animals",
+    "Category": "Monster",
+    "1": [
+        "Ant",
+        "Ape",
+        "Armadillo",
+        "Badger",
+        "Bear",
+        "Boar"
+    ],
+    "2": [
+        "Caterpillar",
+        "Centipede",
+        "Chameleon",
+        "Cockroach",
+        "Deer",
+        "Elephant"
+    ],
+    "3": [
+        "Ferret",
+        "Fox",
+        "Giraffe",
+        "Goat",
+        "Horse",
+        "Human"
+    ],
+    "4": [
+        "Mole",
+        "Ostrich",
+        "Ox",
+        "Porcupine",
+        "Rabbit",
+        "Raccoon"
+    ],
+    "5": [
+        "Rat",
+        "Rhinoceros",
+        "Scorpion",
+        "Sheep",
+        "Slug",
+        "Snail"
+    ],
+    "6": [
+        "Snake",
+        "Spider",
+        "Squirrel",
+        "Tiger",
+        "Wolf",
+        "Wolverine"
+    ]
+}

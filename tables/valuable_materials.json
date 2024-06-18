@@ -1,0 +1,52 @@
+{
+    "Name": "Valuable Materials",
+    "Category": "Item",
+    "1": [
+        "Alabaster",
+        "Amber",
+        "Aquamarine",
+        "Azurite",
+        "Beryl",
+        "Black Pearl"
+    ],
+    "2": [
+        "Bloodstone",
+        "Bone China",
+        "Chalcedony",
+        "Cinnabar",
+        "Coral",
+        "Diamond"
+    ],
+    "3": [
+        "Ebony",
+        "Emerald",
+        "Fire Agate",
+        "Garnet",
+        "Gold",
+        "Ivory"
+    ],
+    "4": [
+        "Jade",
+        "Jasper",
+        "Jet",
+        "Lapis Lazuli",
+        "Malachite",
+        "Moonstone"
+    ],
+    "5": [
+        "Onyx",
+        "Opal",
+        "Pearl",
+        "Platinum",
+        "Porcelain",
+        "Ruby"
+    ],
+    "6": [
+        "Sapphire",
+        "Serpentine",
+        "Silver",
+        "Star Iron",
+        "Topaz",
+        "Turquoise"
+    ]
+}

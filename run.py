@@ -4,62 +4,47 @@ import os
 # Ensure the 'tables' directory exists
 os.makedirs('tables', exist_ok=True)
 
-# Table data for Magic section from the Maze Rats rules
-
+# Table data for Tool Items, Treasure Items, Treasure Traits, and Valuable Materials
 tables = {
-    "physical_effects": {
-        "Category": "Magic",
-        "1": ["Animating", "Attracting", "Binding", "Blossoming", "Consuming", "Creeping"],
-        "2": ["Crushing", "Diminishing", "Dividing", "Duplicating", "Enveloping", "Expanding"],
-        "3": ["Fusing", "Grasping", "Hastening", "Hindering", "Illuminating", "Imprisoning"],
-        "4": ["Levitating", "Opening", "Petrifying", "Phasing", "Piercing", "Pursuing"],
-        "5": ["Reflecting", "Regenerating", "Rending", "Repelling", "Resurrecting", "Screaming"],
-        "6": ["Sealing", "Shapeshifting", "Shielding", "Spawning", "Transmuting", "Transporting"]
+    "tool_items": {
+        "Name": "Tool Items",
+        "Category": "Item",
+        "1": ["Acid flask", "Bear trap", "Bellows", "Bolt-cutters", "Chain", "Chisel"],
+        "2": ["Crowbar", "Door ram", "Ear trumpet", "Fire oil", "Fishing hook", "Goggles"],
+        "3": ["Grappling hook", "Grease", "Hacksaw", "Hammer", "Hand drill", "Lantern"],
+        "4": ["Lens", "Lock/key", "Lockpicks", "Manacles", "Metal file", "Mortar/pestle"],
+        "5": ["Needle", "Pickaxe", "Pitchfork", "Pliers", "Pole", "Pulleys"],
+        "6": ["Rope", "Scissors", "Shovel", "Spikes", "Steel wire", "Tongs"]
     },
-    "physical_forms": {
-        "Category": "Magic",
-        "1": ["Altar", "Armor", "Arrow", "Beast", "Blade", "Cauldron"],
-        "2": ["Chain", "Chariot", "Claw", "Cloak", "Colossus", "Crown"],
-        "3": ["Elemental", "Eye", "Fountain", "Gate", "Golem", "Hammer"],
-        "4": ["Horn", "Key", "Mask", "Monolith", "Pit", "Prison"],
-        "5": ["Sentinel", "Servant", "Shield", "Spear", "Steed", "Swarm"],
-        "6": ["Tentacle", "Throne", "Torch", "Trap", "Wall", "Web"]
+    "treasure_items": {
+        "Name": "Treasure Items",
+        "Category": "Item",
+        "1": ["Alchemy recipe", "Amulet", "Astrolabe", "Blueprints", "Calligraphy", "Carpet"],
+        "2": ["Compass", "Contract", "Crown", "Crystal", "Deed", "Embroidery"],
+        "3": ["Fine china", "Fine liquor", "Instrument", "Magical book", "Microscope", "Music box"],
+        "4": ["Orrery", "Painting", "Perfume", "Prayer book", "Printing block", "Rare textile"],
+        "5": ["Royal robes", "Saint's relic", "Scrimshaw", "Sextant", "Sheet music", "Signet ring"],
+        "6": ["Silverware", "Spices", "Spyglass", "Tapestry", "Telescope", "Treasure map"]
     },
-    "ethereal_elements": {
-        "Category": "Magic",
-        "1": ["Ash", "Chaos", "Distortion", "Dream", "Dust", "Echo"],
-        "2": ["Ectoplasm", "Fire", "Fog", "Ghost", "Harmony", "Heat"],
-        "3": ["Light", "Lightning", "Memory", "Mind", "Mutation", "Negation"],
-        "4": ["Plague", "Plasma", "Probability", "Rain", "Rot", "Shadow"],
-        "5": ["Smoke", "Snow", "Soul", "Star", "Stasis", "Steam"],
-        "6": ["Thunder", "Time", "Void", "Warp", "Whisper", "Wind"]
+    "treasure_traits": {
+        "Name": "Treasure Traits",
+        "Category": "Item",
+        "1": ["Altered", "Ancient", "Blessed", "Bulky", "Compact", "Consumable"],
+        "2": ["Cultural value", "Cursed", "Damaged", "Disguised", "Draws enemies", "Effect"],
+        "3": ["Element", "Embellished", "Encoded", "Exotic", "Extra-planar", "Famous"],
+        "4": ["Forbidden", "Fragile", "Heavy", "Immovable", "Impractical", "Indestructible"],
+        "5": ["Intelligent", "Masterwork", "Military value", "Non-human", "Owned", "Partial"],
+        "6": ["Political value", "Religious value", "Repaired", "Royal", "Toxic", "Vile"]
     },
-    "ethereal_effects": {
-        "Category": "Magic",
-        "1": ["Avenging", "Banishing", "Bewildering", "Blinding", "Charming", "Communicating"],
-        "2": ["Compelling", "Concealing", "Deafening", "Deceiving", "Deciphering", "Disguising"],
-        "3": ["Dispelling", "Emboldening", "Encoding", "Energizing", "Enlightening", "Enraging"],
-        "4": ["Excruciating", "Foreseeing", "Intoxicating", "Maddening", "Mesmerizing", "Mindreading"],
-        "5": ["Nullifying", "Paralyzing", "Revealing", "Revolting", "Scrying", "Silencing"],
-        "6": ["Soothing", "Summoning", "Terrifying", "Warding", "Wearying", "Withering"]
-    },
-    "physical_elements": {
-        "Category": "Magic",
-        "1": ["Acid", "Amber", "Bark", "Blood", "Bone", "Brine"],
-        "2": ["Clay", "Crow", "Crystal", "Ember", "Flesh", "Fungus"],
-        "3": ["Glass", "Honey", "Ice", "Insect", "Lava", "Metal"],
-        "4": ["Moss", "Obsidian", "Oil", "Poison", "Rat", "Salt"],
-        "5": ["Sand", "Sap", "Serpent", "Slime", "Stone", "Tar"],
-        "6": ["Thorn", "Vine", "Water", "Wine", "Wood", "Worm"]
-    },
-    "ethereal_forms": {
-        "Category": "Magic",
-        "1": ["Aura", "Beacon", "Beam", "Blast", "Blob", "Bolt"],
-        "2": ["Bubble", "Call", "Cascade", "Circle", "Cloud", "Coil"],
-        "3": ["Cone", "Cube", "Dance", "Disk", "Field", "Form"],
-        "4": ["Gaze", "Loop", "Moment", "Nexus", "Portal", "Pulse"],
-        "5": ["Pyramid", "Ray", "Shard", "Sphere", "Spray", "Storm"],
-        "6": ["Swarm", "Torrent", "Touch", "Vortex", "Wave", "Word"]
+    "valuable_materials": {
+        "Name": "Valuable Materials",
+        "Category": "Item",
+        "1": ["Alabaster", "Amber", "Aquamarine", "Azurite", "Beryl", "Black Pearl"],
+        "2": ["Bloodstone", "Bone China", "Chalcedony", "Cinnabar", "Coral", "Diamond"],
+        "3": ["Ebony", "Emerald", "Fire Agate", "Garnet", "Gold", "Ivory"],
+        "4": ["Jade", "Jasper", "Jet", "Lapis Lazuli", "Malachite", "Moonstone"],
+        "5": ["Onyx", "Opal", "Pearl", "Platinum", "Porcelain", "Ruby"],
+        "6": ["Sapphire", "Serpentine", "Silver", "Star Iron", "Topaz", "Turquoise"]
     }
 }
 
@@ -67,4 +52,3 @@ tables = {
 for table_name, table_data in tables.items():
     with open(f'tables/{table_name}.json', 'w') as file:
         json.dump(table_data, file, indent=4)
-

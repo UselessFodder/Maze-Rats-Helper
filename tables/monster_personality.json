@@ -1,0 +1,52 @@
+{
+    "Name": "Monster Personality",
+    "Category": "Monster",
+    "1": [
+        "Alien",
+        "Aloof",
+        "Bored",
+        "Cautious",
+        "Cowardly",
+        "Curious"
+    ],
+    "2": [
+        "Devious",
+        "Distractible",
+        "Educated",
+        "Embitterned",
+        "Envious",
+        "Erudite"
+    ],
+    "3": [
+        "Fanatical",
+        "Forgetful",
+        "Generous",
+        "Hateful",
+        "Honorable",
+        "Humble"
+    ],
+    "4": [
+        "Jaded",
+        "Jovial",
+        "Legalistic",
+        "Manipulative",
+        "Megalomaniac",
+        "Melancholy"
+    ],
+    "5": [
+        "Meticulous",
+        "Mystical",
+        "Obsessive",
+        "Out of Touch",
+        "Paranoid",
+        "Polite"
+    ],
+    "6": [
+        "Psychopathic",
+        "Sophisticated",
+        "Touchy",
+        "Unimpressed",
+        "Vain",
+        "Xenophobic"
+    ]
+}
